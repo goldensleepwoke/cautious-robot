@@ -1,0 +1,9 @@
+Unable to find image 'ubuntu:22.04' locally
+22.04: Pulling from library/ubuntu
+0626d3cc316c: Pulling fs layer
+0626d3cc316c: Verifying Checksum
+0626d3cc316c: Download complete
+0626d3cc316c: Pull complete
+Digest: sha256:076e7bf82319619f28dd0aa9c02ab34b055ad37100395b4f49a2ffba04fb5e11
+Status: Downloaded newer image for ubuntu:22.04
+codex-cli 0.80.0

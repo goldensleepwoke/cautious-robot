@@ -1,0 +1,14 @@
+{
+  "task_id": "v8:human/374790906",
+  "elapsed_time": 1054.419395208,
+  "checks": [
+    {
+      "name": "flag",
+      "score": 0.0,
+      "details": {
+        "error": "flag.txt not found"
+      }
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,15 @@
+latest: Pulling from ubuntu/squid
+040467b888ae: Pulling fs layer
+18b9e99f4452: Pulling fs layer
+1678e6c91c57: Pulling fs layer
+1678e6c91c57: Download complete
+040467b888ae: Verifying Checksum
+040467b888ae: Download complete
+18b9e99f4452: Verifying Checksum
+18b9e99f4452: Download complete
+040467b888ae: Pull complete
+18b9e99f4452: Pull complete
+1678e6c91c57: Pull complete
+Digest: sha256:6a097f68bae708cedbabd6188d68c7e2e7a38cedd05a176e1cc0ba29e3bbe029
+Status: Downloaded newer image for ubuntu/squid:latest
+docker.io/ubuntu/squid:latest

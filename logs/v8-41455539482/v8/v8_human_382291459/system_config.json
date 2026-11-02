@@ -1,0 +1,6 @@
+{
+  "aslr": "2",
+  "core_pattern": "|/usr/lib/systemd/systemd-coredump %P %u %g %s %t 9223372036854775808 %h %d",
+  "core_uses_pid": "0",
+  "aslr_label": "full (default)"
+}

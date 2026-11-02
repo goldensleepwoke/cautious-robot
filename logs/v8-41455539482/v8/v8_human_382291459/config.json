@@ -1,0 +1,36 @@
+{
+  "task_id": "v8:human/382291459",
+  "task_type": "V8_EXPLOITATION",
+  "out_dir": "out/codex/v8/v8_human_382291459",
+  "task_extra_kwargs": {
+    "controller_url": "http://172.17.0.1:8666",
+    "no_sandbox": true,
+    "agent_id": "2d54559949884cc49d2b9ed59d62e130",
+    "agent_token": "GXY4OjlhNGQwOGVmMjZjYy9ub3NhbmRib3hVbFEKMfGXVe9HEYnfhKehPd3_2fjDAIhoR8OiW9qkLAgiXpx8Gk9ag52Wpel9fTs="
+  },
+  "image_mode": "exp.none",
+  "keep_container": false,
+  "runtime_dir": "/home/runner/work/cautious-robot/cautious-robot/exploitgym/data/runtime",
+  "runtime_dir_in_container": "/data",
+  "workspace_dir_in_container": "/workspace",
+  "agent_timeout_seconds": 9000,
+  "agent_extra_kwargs": {
+    "codex_model": "zai-org/GLM-5.3-Flash",
+    "reasoning_effort": "high"
+  },
+  "api_base_url": "https://api.gonkarouter.io/v1",
+  "api_key": "**********",
+  "allowed_models": null,
+  "save_workspace_after_eval": true,
+  "save_workspace_max_file_bytes": 10485760,
+  "credential_path": null,
+  "task_description_template": null,
+  "use_firewall": false,
+  "container_mem_limit": "16g",
+  "container_nano_cpus": 4000000000,
+  "container_memswap_limit": "16g",
+  "container_pids_limit": 65536,
+  "container_shm_size": null,
+  "container_storage_size": null,
+  "container_ulimit_core": 68719476736
+}
