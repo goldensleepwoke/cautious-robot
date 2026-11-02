@@ -1,0 +1,10 @@
+REPOSITORY                                   TAG                                   IMAGE ID       CREATED        SIZE
+ghcr.io/github/gh-aw-firewall/agent          latest                                3186a9688b66   8 days ago     1.01GB
+ghcr.io/github/gh-aw-firewall/api-proxy      latest                                71caee360497   8 days ago     374MB
+ghcr.io/github/gh-aw-mcpg                    latest                                adada59dc2eb   10 days ago    183MB
+ghcr.io/github/github-mcp-server             latest                                4d955ee421ef   11 days ago    50.1MB
+ghcr.io/github/gh-aw-firewall/squid          latest                                ceba3de0cc73   12 days ago    57.5MB
+ghcr.io/dependabot/dependabot-updater-core   latest                                dae9747fa760   13 days ago    830MB
+cybergym/v8                                  human-446124892-nosandbox-buildable   e340d45ed1ec   5 months ago   3.06GB
+cybergym/v8                                  human-374790906-nosandbox-buildable   dd517c737591   5 months ago   2.65GB
+cybergym/v8                                  human-382291459-nosandbox-buildable   08b82316ecf8   5 months ago   2.7GB
